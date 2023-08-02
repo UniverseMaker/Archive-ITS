@@ -1,10 +1,11 @@
 # Archive-ITS
-The Archive Project is Issue Tracking System and Project Management System.
+The Archive is a project to build a Issue Tracking System and Project Management System.
 
 # Demo
 https://superblaze.net/archive/
 ID: admin
 PW: admin
+**Currently having some issues in demo system.
 
 # Introduction
 본 프로젝트는 Jira와 Redmine을 모티브로 PHP 기반에서 가볍게 운용 가능한 Issue Tracking System, Project Management System, Document Management System 구축을 목표로 합니다.
